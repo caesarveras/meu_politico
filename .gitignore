@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+node_modules/
+.expo/
+dist/
+coverage/
+.DS_Store
+*.sqlite3
+*.db
